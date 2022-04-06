@@ -1,0 +1,32 @@
+header {
+  background-color: #001523;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
+  a img {
+    border-radius: 300px;
+    height: 110px;
+  }
+  .logo {
+    display: flex;
+    justify-content: center;
+  }
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  padding-bottom: 1rem;
+  display: flex;
+  justify-content: space-around;
+
+  li a {
+    text-decoration: none;
+    color: rgb(177, 172, 172);
+    font-size: 23px;
+  }
+  li:hover a {
+    opacity: 0, 65;
+    color: white;
+  }
+}

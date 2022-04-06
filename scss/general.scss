@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  max-width: 1200px;
+}
+
+body {
+  background-color: #00111c;
+}
+
+@media (max-width: 1200px) {
+  .title h1 {
+    text-align: center;
+  }
+  .title h3 {
+    text-align: center;
+    border-bottom: double 4px $colortext;
+  }
+  .none {
+    display: none;
+  }
+}

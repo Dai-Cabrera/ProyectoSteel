@@ -1,0 +1,32 @@
+/* seccion: que es? */
+
+.textP {
+  color: $colortext;
+  font-size: 128%;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+/* seccion panel */
+
+.panelDescriptionP {
+  color: $colortext;
+  font-size: 117%;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 7px;
+}
+
+/* seccion tarjetas */
+
+.section p {
+  text-align: center;
+  color: $colortext;
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding-top: 5px;
+  line-height: 1.5;
+}

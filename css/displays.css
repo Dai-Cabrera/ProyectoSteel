@@ -1,0 +1,41 @@
+/* portada */
+.title {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 2rem;
+  animation-duration: 10s;
+  animation-name: move;
+}
+@keyframes move {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* seccion: que es? */
+.displaySection {
+  display: flex;
+  justify-content: center;
+}
+
+/* seccion tarjetas */
+.cardD {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-bottom: 80px;
+}
+
+/* proyectos */
+.galery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+/*# sourceMappingURL=displays.css.map */

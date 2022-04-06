@@ -1,0 +1,14 @@
+{
+  "name": "proyectosteel",
+  "version": "1.0.0",
+  "description": "Steel framing. Construcción sustentable y eficiente.  Olavarría, Provincia de Buenos Aires, Argentina",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:css"
+  },
+  "keywords": [
+    "Steel Framing, Ampliaciones, Revestimientos, Cielo rasos, Tabiques, Estantes flotantes, Vestidores, Olavarria"
+  ],
+  "author": "",
+  "license": "ISC"
+}
