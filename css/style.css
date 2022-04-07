@@ -27,6 +27,14 @@ body {
   .none {
     display: none;
   }
+
+  .imgS {
+    max-width: 100%;
+  }
+
+  .imgSteel {
+    max-width: 100%;
+  }
 }
 /* portada */
 .title {
@@ -222,7 +230,7 @@ ul li:hover a {
 
 /* proyectos */
 .imgSteel {
-  height: 4rem;
+  height: 25rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
@@ -232,7 +240,7 @@ ul li:hover a {
 }
 
 .imgS {
-  height: 4rem;
+  height: 33rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
