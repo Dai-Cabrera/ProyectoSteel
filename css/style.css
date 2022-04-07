@@ -236,7 +236,6 @@ ul li:hover a {
 }
 .imgSteel:hover {
   transform: scale(1.3);
-  filter: drop-shadow(10px 10px 15px #363636);
 }
 
 .imgS {
@@ -246,7 +245,6 @@ ul li:hover a {
 }
 .imgS:hover {
   transform: scale(1.3);
-  filter: drop-shadow(10px 10px 15px #363636);
 }
 
 footer {
